@@ -1,5 +1,3 @@
-
-<!DOCTYPE html>
 <html>
     <head>
         <title>M Khan | Designer</title>
