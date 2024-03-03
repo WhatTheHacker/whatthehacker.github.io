@@ -1,10 +1,16 @@
+<html>
+   
+<head>
+   
+
    <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" href="css/normalize.css">
         <link href='http://fonts.googleapis.com/css?family=Changa+One|Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" href="css/main.css">
         <link rel="stylesheet" href="css/responsive.css">
-   
+        </head>
+   <body>
    <header> 
       <nav>
                 <ul>
@@ -14,6 +20,8 @@
                 </ul>
             </nav>
         </header>
+   </body>
+        </html>
 ### Hi there 👋, {Muhammad khan}
 #### Cybersecurity Analyst
 "A jack of all trades is a master of none but oftentimes better than a master of one"
