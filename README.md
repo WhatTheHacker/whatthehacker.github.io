@@ -1,5 +1,7 @@
+<!DOCTYPE html>
 <html>
     <head>
+        <title>M Khan | Designer</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" href="css/normalize.css">
@@ -11,53 +13,27 @@
         
         <header> 
             <a href="index.html" id="logo">
-   <h1>M Khan</h1>
+            <h1>M Khan</h1>
             <h2>Designer</h2></a>
+            
             <nav>
                 <ul>
-                    <li><a href="index.html" class="selected">Portfolio</a></li>
-                    <li><a href="about.html">About</a></li>
+                    <li><a href="index.html">Portfolio</a></li>
+                    <li><a href="about.html"  class="selected">About</a></li>
                     <li><a href="contact.html">Contact</a></li>
                 </ul>
             </nav>
         </header>
         <div id="wrapper">
-        <section>
-          
-            <ul id="gallery">
-                <li>
-                    <a href="img/numbers-01.jpg">
-                    <img src="img/numbers-01.jpg" alt="">
-                    <p>Experimentation with Color and texture</p>
-                    </a>
-                </li>
-                    <li>
-                    <a href="img/numbers-02.jpg">
-                    <img src="img/numbers-02.jpg" alt="">
-                    <p>Playing with blending modes and textures</p>
-                    </a>
-                </li>
-                    <li>
-                    <a href="img/numbers-06.jpg">
-                    <img src="img/numbers-06.jpg" alt="">
-                    <p>Trying to create an 80s style</p>
-                    </a>
-                </li>
-                    <li>
-                    <a href="img/numbers-09.jpg">
-                    <img src="img/numbers-09.jpg" alt="">
-                    <p>Drips created useing photoshop</p>
-                    </a>
-                </li>
-                    <li>
-                    <a href="img/numbers-12.jpg">
-                    <img src="img/numbers-12.jpg" alt="">
-                    <p>Creating shapes using repititions</p>
-                    </a>
-                </li>
-            </ul>
+        
             
-        </section>
+            <section>
+                <img src="img/khan.jpg" alt="Profile Picture" class="myPortfolio" />
+                <h3>About</h3>
+                <p>Hi, I'm M khan. This is my portfolio.I live in New York
+                I like web design and devlope.</p>
+                <p>If you like my site pls follow me on<a href="http://twitter.com/hisabuz"> Twitter</a></p>
+            </section>
         
         <footer>
             <a href="http://twitter.com/hisabuz">
