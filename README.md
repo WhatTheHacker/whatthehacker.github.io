@@ -1,9 +1,12 @@
+   <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="css/normalize.css">
+        <link href='http://fonts.googleapis.com/css?family=Changa+One|Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="css/main.css">
+        <link rel="stylesheet" href="css/responsive.css">
+   
    <header> 
-            <a href="index.html" id="logo">
-            <h1>M Khan</h1>
-            <h2>Designer</h2></a>
-            
-            <nav>
+      <nav>
                 <ul>
                     <li><a href="index.html">Portfolio</a></li>
                     <li><a href="about.html"  class="selected">About</a></li>
