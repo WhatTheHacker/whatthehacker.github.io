@@ -1,3 +1,16 @@
+   <header> 
+            <a href="index.html" id="logo">
+            <h1>M Khan</h1>
+            <h2>Designer</h2></a>
+            
+            <nav>
+                <ul>
+                    <li><a href="index.html">Portfolio</a></li>
+                    <li><a href="about.html"  class="selected">About</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </nav>
+        </header>
 ### Hi there 👋, {Muhammad khan}
 #### Cybersecurity Analyst
 "A jack of all trades is a master of none but oftentimes better than a master of one"
