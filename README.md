@@ -11,7 +11,8 @@
         
         <header> 
             <a href="index.html" id="logo">
-
+   <h1>M Khan</h1>
+            <h2>Designer</h2></a>
             <nav>
                 <ul>
                     <li><a href="index.html" class="selected">Portfolio</a></li>
